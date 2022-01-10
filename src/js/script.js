@@ -13,15 +13,6 @@ $(document).ready(function(){
               }
           }
       ],
-      responsive: [
-        {
-            breakpoint: 768,
-            settings: {
-                dots: false,
-                arrows: true
-            }
-        }
-      ],
   });
   
   $('ul.catalog__tabs').on('click', 'li:not(.catalog__tab_active)', function() {
