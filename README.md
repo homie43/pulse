@@ -11,7 +11,7 @@
 - использование javascript (jQuery):
 - slider with silck-slider
 - tabs
-  - modals
-  - validation forms
-  - masked input
-  - smooth scroll
+- modals
+- validation forms
+- masked input
+- smooth scroll
