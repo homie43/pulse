@@ -1,4 +1,4 @@
-# Демонстрация: https://homie43.github.io/project_pulse/
+# Демонстрация: https://homie43.github.io/pulse/
 
 ## Практика по использованию основ в:
 
